@@ -14,6 +14,6 @@ namespace Zarplata
         public abstract double CountPay();
         public double DaysWorks = 20.8;
         public int HourWorkInDay = 8;
-
+        //test data
     }
 }
